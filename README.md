@@ -10,3 +10,5 @@ It will prompt asking for recursion depth, any number over 8 will still work, bu
 (Must be run like this so final output is shown, if run by double clicking it will close immediately after completion) 
 
 Created December 2020
+
+![](Triangle.png)
